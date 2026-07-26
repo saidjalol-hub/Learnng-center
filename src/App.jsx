@@ -1,9 +1,9 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import Student from './Student'
+import Student from './student'
 import Admin from './admin'
-import Teacher from './Teacher'
-import Login from './Login'
-import Sign from './Sign'
+import Teacher from './teacher'
+import Login from './login'
+import Sign from './sign'
 
 function App() {
   return (
